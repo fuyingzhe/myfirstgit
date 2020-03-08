@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test fast forward.
 Test on param --no-ff.
+Changed on issue-102.
