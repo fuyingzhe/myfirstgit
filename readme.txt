@@ -6,4 +6,4 @@ Creating a new branch is quick and simple.
 Test fast forward.
 Test on param --no-ff.
 stash 02.
-Changed on issue-102.
+Changed on issue-102. 
