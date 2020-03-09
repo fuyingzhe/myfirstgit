@@ -7,3 +7,4 @@ Test fast forward.
 Test on param --no-ff.
 stash 02.
 Changed on issue-102. 
+20200309 test push.
